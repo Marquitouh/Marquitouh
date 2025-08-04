@@ -37,8 +37,7 @@
 ## 🏆 Logros y habilidades
 
 - 🧠 Programador en C especializado en simuladores de consola
-- 🎮 Más de 5 juegos propios desarrollados desde cero
-- 🛠️ Creador de motores personalizados sin dependencias externas
+- 🎮 Más de 3 juegos propios desarrollados desde cero
 
 ---
 
