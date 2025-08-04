@@ -32,8 +32,7 @@
 
 ## 🌱 En desarrollo
 
-- **Lunavow**: RPG post-apocalíptico con personajes antropomórficos, estilo Zelda, con narrativa emocional.
-- **Motor propio para juegos por consola en C**
+- **Lunavow**: RPG orientado en la era medieval con personajes antropomórficos, con narrativa emocional.
 
 ---
 
