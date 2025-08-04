@@ -21,15 +21,12 @@
 > Juego por consola en lenguaje C basado en *Evangelion: Proyecto de Crianza de Shinji Ikari*.  
 > Incluye sistema de citas, eventos aleatorios, crisis mentales y múltiples finales.
 
-📁 [Ver repositorio](https://github.com/Marquitouh/Evangelion-Loving-Project/tree/main)
-
 ---
 
 ### 🧩 Mini simuladores y sistemas
 
-- **Juego de Dados por Consola**: simulación de lanzamiento de dados con lógica de victoria.
-- **Control de Embarcaciones**: sistema en C para entradas y salidas con multas automáticas.
-- **Gestor de Relaciones**: minijuego narrativo en texto, enfocado en decisiones y consecuencias.
+- **Memory Evangelion**: simulación del famoso juego de memoria con tematica de Neon Genesis Evangelion.
+- **Tetris**: sistema en C que recrea el famoso juego.
 
 ---
 
