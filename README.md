@@ -29,10 +29,16 @@
 - **Tetris**: sistema en C que recrea el famoso juego.
 
 ---
-
 ## 🌱 En desarrollo
 
 - **Lunavow**: RPG orientado en la era medieval con personajes antropomórficos, con narrativa emocional.
+
+---
+## 🏆 Logros y habilidades
+
+- 🧠 Programador en C especializado en simuladores de consola
+- 🎮 Más de 5 juegos propios desarrollados desde cero
+- 🛠️ Creador de motores personalizados sin dependencias externas
 
 ---
 
