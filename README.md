@@ -44,7 +44,7 @@
 
 - 💼 GitHub: [@Marquitouh](https://github.com/Marquitouh)
 - ✉️ Email: marcomartinezmatia200@gmail.com
-- 🧾 CV: [Descargar aquí](https://github.com/Marquitouh/marco-cv/blob/main/Curr%C3%ADculum%20Vitae%20Cv.pdf)
+- 🧾 CV: [Descargar aquí](https://github.com/Marquitouh/Marquitouh/blob/main/Curr%C3%ADculum%20Vitae%20Cv.pdf)
 
 ---
 
