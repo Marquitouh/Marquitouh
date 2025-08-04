@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Marco Matia
 
-<!--
-**Marquitouh/Marquitouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Desarrollador de software y videojuegos  
+🎮 CEO de PixelFox Studios  
+💻 Apasionado por el diseño de sistemas, herramientas internas y experiencias interactivas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que manejo
+
+- Lenguajes: `C`, `Python`, `JavaScript`
+- Áreas: Desarrollo de videojuegos por consola, simuladores, lógica algorítmica
+- Herramientas: `GCC`, `VSCode`, `Git`, `GitHub`
+
+---
+
+## 🚀 Proyectos destacados
+
+### 💥 Evangelion: Simulador de Crianza
+
+> Juego por consola en lenguaje C basado en *Evangelion: Proyecto de Crianza de Shinji Ikari*.  
+> Incluye sistema de citas, eventos aleatorios, logros, crisis mentales y múltiples finales.
+
+📁 [Ver repositorio](https://github.com/Marquitouh/evangelion-c-simulador) *(o poné el nombre real si lo creás)*
+
+---
+
+### 🧩 Mini simuladores y sistemas
+
+- **Juego de Dados por Consola**: simulación de lanzamiento de dados con lógica de victoria.
+- **Control de Embarcaciones**: sistema en C para entradas y salidas con multas automáticas.
+- **Gestor de Relaciones**: minijuego narrativo en texto, enfocado en decisiones y consecuencias.
+
+---
+
+## 🌱 En desarrollo
+
+- **Lunavow**: RPG post-apocalíptico con personajes antropomórficos, estilo Zelda, con narrativa emocional.
+- **Motor propio para juegos por consola en C**
+
+---
+
+## 📫 Contacto
+
+- 💼 GitHub: [@Marquitouh](https://github.com/Marquitouh)
+- ✉️ Email: marcomartinezmatia200@gmail.com
+- 🧾 CV: [Descargar aquí](https://link-al-pdf.com)
+
+---
+
+> *“La creatividad nace cuando las limitaciones técnicas se transforman en oportunidades narrativas.”*
