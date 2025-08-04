@@ -16,12 +16,12 @@
 
 ## 🚀 Proyectos destacados
 
-### 💥 Evangelion: Simulador de Crianza
+### 💥 Evangelion: Loving Project
 
 > Juego por consola en lenguaje C basado en *Evangelion: Proyecto de Crianza de Shinji Ikari*.  
-> Incluye sistema de citas, eventos aleatorios, logros, crisis mentales y múltiples finales.
+> Incluye sistema de citas, eventos aleatorios, crisis mentales y múltiples finales.
 
-📁 [Ver repositorio](https://github.com/Marquitouh/evangelion-c-simulador) *(o poné el nombre real si lo creás)*
+📁 [Ver repositorio](https://github.com/Marquitouh/Evangelion-Loving-Project/tree/main)
 
 ---
 
