@@ -13,31 +13,9 @@
 - Herramientas: `GCC`, `VSCode`, `Git`, `GitHub`
 
 ---
-
-## 🚀 Proyectos destacados
-
-### 💥 Evangelion: Loving Project
-
-> Juego por consola en lenguaje C basado en *Evangelion: Proyecto de Crianza de Shinji Ikari*.  
-> Incluye sistema de citas, eventos aleatorios, crisis mentales y múltiples finales.
-
----
-
-### 🧩 Mini simuladores y sistemas
-
-- **Memory Evangelion**: simulación del famoso juego de memoria con tematica de Neon Genesis Evangelion.
-- **Tetris**: sistema en C que recrea el famoso juego.
-
----
 ## 🌱 En desarrollo
 
 - **Lunavow**: RPG orientado en la era medieval con personajes antropomórficos, con narrativa emocional.
-
----
-## 🏆 Logros y habilidades
-
-- 🧠 Programador en C especializado en simuladores de consola
-- 🎮 Más de 3 juegos propios desarrollados desde cero
 
 ---
 
