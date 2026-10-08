@@ -1,6 +1,0 @@
-MM    MM   AAA   RRRRRR   QQQQQ  UU   UU IIIII TTTTTTT  OOOOO  UU   UU HH   HH 
-MMM  MMM  AAAAA  RR   RR QQ   QQ UU   UU  III    TTT   OO   OO UU   UU HH   HH 
-MM MM MM AA   AA RRRRRR  QQ   QQ UU   UU  III    TTT   OO   OO UU   UU HHHHHHH 
-MM    MM AAAAAAA RR  RR  QQ  QQ  UU   UU  III    TTT   OO   OO UU   UU HH   HH 
-MM    MM AA   AA RR   RR  QQQQ Q  UUUUU  IIIII   TTT    OOOO0   UUUUU  HH   HH 
-                                                                               
